@@ -1,8 +1,8 @@
 # covid-data-analysis
 
 
-[
-](https://public.tableau.com/views/gargib2/CovidCaseData?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+ [click here to view](https://public.tableau.com/views/gargib2/CovidCaseData?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 "Tableau dashboard analyzing global covid-19 with insights on cases, death, and recoveries".
 
