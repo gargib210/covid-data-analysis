@@ -19,5 +19,5 @@ It shows total cases, deaths, recoveries, and active cases across different coun
 - Comparison of total deaths vs cases  
 - Global distribution using map visualization
 - 
-![Dashboard] (dashboard1.jpeg)
-![Dashboard] (dashboard2.jpeg)
+![Dashboard](dashboard1.jpeg)
+![Dashboard](dashboard2.jpeg)
